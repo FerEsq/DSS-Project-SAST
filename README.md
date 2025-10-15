@@ -38,5 +38,5 @@ sonar-scanner.bat -D"sonar.projectKey=CDI-Lab-04" -D"sonar.sources=." -D"sonar.h
 ```
 
 # Resultados de SonarScanner
-![Screenshot 01](screenshots\01.png)
-![Screenshot 02](screenshots\02.png)
+![Screenshot 01](screenshots/01.png)
+![Screenshot 02](screenshots/02.png)
